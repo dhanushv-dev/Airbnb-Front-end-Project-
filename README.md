@@ -1,4 +1,4 @@
-# Frontend Project — Airbnb Clone (Editable)
+# Frontend Project — Airbnb Clone 
 
 Hey! This is a simple, editable Airbnb-like homepage built with React + Vite + Tailwind.
 
