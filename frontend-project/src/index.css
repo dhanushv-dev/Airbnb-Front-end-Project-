@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet CSS import recommended for dev */
+@import 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+
+body { @apply bg-purple-200 text-red-500; }
