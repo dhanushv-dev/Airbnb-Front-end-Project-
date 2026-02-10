@@ -11,7 +11,7 @@ Hey! This is a simple, editable Airbnb-like homepage built with React + Vite + T
 - Local HD images in `src/assets/` (placeholder images)
 
 ## Quick start
-1.  
+1. `npm install`
 2. `npm run dev`
 3. Open the URL shown by Vite (usually http://localhost:5173)
 
